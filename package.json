@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  },
+  "name": "devops_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahejadkadivar/DevOps_practice.git"
+  },
+  "author": "Sahejad Kadivar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahejadkadivar/DevOps_practice/issues"
+  },
+  "homepage": "https://github.com/sahejadkadivar/DevOps_practice#readme",
+  "description": ""
+}
